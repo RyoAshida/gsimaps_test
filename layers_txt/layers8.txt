@@ -3,18 +3,12 @@
                   {
                         "type": "LayerGroup",
                         "title": "将来推計人口",
-                        "toggleall": false,
-                        "html": "",
                         "entries": [
                                    {
                                         "type": "Layer",
                                         "id": "population",
                                         "title": "1kmメッシュ総人口2040",
-                                        "iconUrl": "https://www.geospatial.jp/ckan/dataset/9fbf8816-43e4-48f1-b405-7c2c337b31fe/resource/21811c32-7a61-4b59-a954-5844171c2980/download/legendpop.png",
                                         "url": "https://tile.geospatial.jp/milt/1km_pop2040/{z}/{x}/{y}.png",
-                                        "minZoom": 15,
-                                        "maxZoom": 15,
-                                        "html": "",
                                    }
                         ]
                   }
