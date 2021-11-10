@@ -25,5 +25,8 @@
 	},
 	{
 		"url":"./layers7.txt"
+	},
+	{
+		"url":"./layers8.txt"
 	}
 ]
